@@ -5,6 +5,7 @@ A simple and fun Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 ## 🕹️ Demo
 
 To play the game, just open the `index.html` file in your browser.
+https://asimali-dev.github.io/Rock-Paper-Scissors/
 
 ## 📌 Features
 
