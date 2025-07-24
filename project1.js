@@ -3,7 +3,7 @@ let comp_score;
 const choice= document.querySelectorAll(".c1");
 const msg1 = document.getElementById("msg");
 const s1 = document.getElementById("scoring1");
-const s2 = document.getElementById("#scoring2");
+const s2 = document.getElementById("scoring2");
 let score1= 0;
 let score2 = 0;
 
